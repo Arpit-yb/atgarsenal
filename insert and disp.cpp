@@ -31,6 +31,10 @@ void disp()
 			printf("%d",q->i);
 	}
 }
+bool s[(int)1e6];
+void seive(){
+//do something
+}
 int main()
 {
 	int n,i,d;
@@ -43,4 +47,5 @@ int main()
 		inse(d);
 	}
 	disp();
+	seive();
 }
