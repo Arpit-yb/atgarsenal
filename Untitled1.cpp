@@ -46,7 +46,10 @@ int main()
 	int n;
 	cin>>n;
 	cout<<d[n];
-	
+	//sdvjakfv jak fjv ajf v
+	//chitu chutiya 
+	//pr
+	//pullrequest
 	
 	
 }
