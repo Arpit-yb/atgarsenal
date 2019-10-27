@@ -4,7 +4,7 @@ void finddiv(int d[],int n)
 {
 	for(int i=1;i*i<n;i++)
 	{
-		if(n%i==0)
+		if(!(n%i))
 	}
 }
 int main()
